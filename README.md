@@ -3,11 +3,13 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: João Vitor Porto Lorencini
+Matricula: 892376 
 
 ## Tela de inspeção com navegador
 
+<img src="prints/print_ferramnetas_desenvolvedor.png" alt="print inspeção com navegador">
 
 ## Tela de projeto no Replit
 
+<img src="prints/print_pagina_replit.png" alt="print projeto no Replit">
